@@ -1,1 +1,1 @@
-"# hands-on-git"
+# hands-on-git
